@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="ControlWorks.U_Relatorio"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Padding="5" PreviewKeyDown="UserControl_PreviewKeyDown">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <StackPanel>
+                <Label Content="Periodo inicial:" Padding="0"/>
+                <StackPanel Orientation="Horizontal">
+                    <DatePicker x:Name="tbDataInicial" Height="23" Width="140" HorizontalAlignment="Left" SelectedDate="{Binding Path=PeriodoInicial, UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Periodo final:" Padding="0"/>
+                <StackPanel Orientation="Horizontal">
+                    <DatePicker x:Name="tbDataFinal" Height="23" Width="140" HorizontalAlignment="Left" SelectedDate="{Binding Path=PeriodoFinal, UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Atleta:" Padding="0"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="tbCodigoAtleta" Width="140" Height="20" MaxLength="60" HorizontalAlignment="Left" Text="{Binding Path=Atleta.Codigo, UpdateSourceTrigger=PropertyChanged}"  IsKeyboardFocusWithinChanged="TextBlock_IsKeyboardFocusWithinChanged"/>
+                    <TextBlock Margin="5 0 0 0" Text="&#xE721;" FontFamily="Segoe MDL2 Assets" Width="15" Height="18"  FontSize="14"  Focusable="False"  MouseLeftButtonDown="TextBlock2_MouseLeftButtonDown"/>
+                    <TextBlock Text="{Binding Path=Atleta.Nome, UpdateSourceTrigger=PropertyChanged}" Margin="5 0 0 0"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Left">
+                <Label Content=" " Padding="0"/>
+                <StackPanel Orientation="Horizontal">
+                    <Button Width="130" Height="20" Content="Gerar Relatório" FontWeight="SemiBold" Click="BtnGerarRelatorio_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

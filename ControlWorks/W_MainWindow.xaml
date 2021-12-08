@@ -1,0 +1,34 @@
+﻿<Window x:Class="ControlWorks.W_MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="ControlWorks" WindowState="Maximized" WindowStartupLocation="CenterScreen" MinWidth="800" MinHeight="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" FontSize="18">
+            <MenuItem Header="_Lancamento" Background="LightGray" FontWeight="SemiBold" Tag="TELA_LANCAMENTO" Click="MenuItem_Click"/>
+            <MenuItem Header="_Cadastros">
+                <MenuItem Header="_Cadastro de atletas" Tag="CADASTRO_ATLETA" Click="MenuItem_Click"/>
+                <MenuItem Header="_Cadastro de treinadores" Tag="CADASTRO_TREINADOR" Click="MenuItem_Click"/>
+                <MenuItem Header="_Cadastro de exercicios" Tag="CADASTRO_EXERCICIO" Click="MenuItem_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Relatórios" Tag="GERAR_RELATORIOS" Click="MenuItem_Click"/>
+        </Menu>
+        <StackPanel Grid.Row="1"  Background="WhiteSmoke">
+            <TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="16" FontWeight="SemiBold" Text="{Binding Path=CurrentScreen.Title, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2">
+            <ContentControl x:Name="ccTela" Content="{Binding Path=CurrentScreen.Content, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3"  Background="WhiteSmoke">
+            <TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="16" FontWeight="SemiBold" Text="{Binding Path=Usuario.Login, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+    </Grid>
+</Window>

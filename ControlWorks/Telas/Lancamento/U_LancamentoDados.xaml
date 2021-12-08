@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="ControlWorks.U_LancamentoDados"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Loaded="UserControl_Loaded">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="2">
+            <Label Content="Pesquisar: " Padding="0"/>
+            <TextBox x:Name="tbPesquisar" Width="500" MaxLength="60" Height="20" TextChanged="tbPesquisar_TextChanged"/>
+        </StackPanel>
+        <StackPanel>
+            <DataGrid Margin="0 2 0 0" x:Name="dataGridLancamentos"  AutoGenerateColumns="False" AlternatingRowBackground="WhiteSmoke" CanUserAddRows="False" ItemsSource="{Binding Path=L_Treino, UpdateSourceTrigger=PropertyChanged}" MouseDoubleClick="dataGridLancamentos_MouseDoubleClick" PreviewKeyDown="dataGridLancamentos_PreviewKeyDown">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Codigo}" IsReadOnly="True" Header="Código" MinWidth="80" Width="*"/>
+                    <DataGridTextColumn Binding="{Binding Titulo}" IsReadOnly="True" Header="Título" MinWidth="150" Width="*"/>
+                    <DataGridTextColumn Binding="{Binding Treinador.Nome}" IsReadOnly="True" Header="Treinador" MinWidth="250" Width="*"/>
+                    <DataGridTextColumn Binding="{Binding Atleta.Nome}" IsReadOnly="True" Header="Atleta" MinWidth="250" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

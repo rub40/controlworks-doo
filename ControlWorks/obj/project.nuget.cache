@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqbIOLY0IIAVNFOtcJxuENoa41ad7bxgQTdWYXXq3A+EOtmZap5eYaK2VdiWA8nLf1j9rgg0peZPa36MTaZWIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joser\\Desktop\\Faculdade\\2021.2\\DOO\\controlworks-doo-main\\controlworks-doo-main\\ControlWorks\\ControlWorks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joser\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\joser\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\joser\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

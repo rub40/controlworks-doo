@@ -1,0 +1,258 @@
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.exe
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.deps.json
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.runtimeconfig.json
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.runtimeconfig.dev.json
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.dll
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ref\ControlWorks.dll
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.pdb
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.AssemblyReference.cache
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_Atleta.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_AtletaDados.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaAtleta.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaExercicio.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaTreinador.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_ExercicioDados.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Relatorio\U_Relatorio.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_Treinador.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_TreinadorDados.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\W_Login.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\W_MainWindow.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_Atleta.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_AtletaDados.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaAtleta.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaExercicio.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaTreinador.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_Exercicio.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_ExercicioDados.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_Lancamento.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Relatorio\U_Relatorio.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_Treinador.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_TreinadorDados.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\W_Login.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\W_MainWindow.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks_MarkupCompile.cache
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks_MarkupCompile.lref
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_Exercicio.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_Lancamento.baml
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.g.resources
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.AssemblyInfoInputs.cache
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.AssemblyInfo.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.CoreCompileInputs.cache
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.dll
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ref\ControlWorks.dll
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.pdb
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.genruntimeconfig.cache
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_LancamentoDados.g.cs
+C:\Users\rafael-prosol\Documents\Projeto\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_LancamentoDados.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.exe
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.deps.json
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.runtimeconfig.json
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.runtimeconfig.dev.json
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.dll
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ref\ControlWorks.dll
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.pdb
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.AssemblyReference.cache
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_Atleta.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_AtletaDados.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaAtleta.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaExercicio.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaTreinador.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_ExercicioDados.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_LancamentoDados.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Relatorio\U_Relatorio.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_Treinador.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_TreinadorDados.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\W_Login.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\W_MainWindow.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_Atleta.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_AtletaDados.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaAtleta.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaExercicio.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaTreinador.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_Exercicio.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_ExercicioDados.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_Lancamento.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_LancamentoDados.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Relatorio\U_Relatorio.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_Treinador.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_TreinadorDados.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\W_Login.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\W_MainWindow.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks_MarkupCompile.cache
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks_MarkupCompile.lref
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_Exercicio.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_Lancamento.baml
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.g.resources
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.AssemblyInfoInputs.cache
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.AssemblyInfo.cs
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.CoreCompileInputs.cache
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.dll
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ref\ControlWorks.dll
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.pdb
+C:\Users\rafael-prosol\Downloads\control-works-doo\control-works-doo\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.genruntimeconfig.cache
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.exe
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.deps.json
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.runtimeconfig.json
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.runtimeconfig.dev.json
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.dll
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\bin\Debug\net5.0-windows\ref\ControlWorks.dll
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.pdb
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.AssemblyReference.cache
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_Atleta.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_AtletaDados.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaAtleta.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaExercicio.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaTreinador.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_ExercicioDados.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_LancamentoDados.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Relatorio\U_Relatorio.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_Treinador.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_TreinadorDados.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\W_Login.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\W_MainWindow.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_Atleta.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_AtletaDados.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaAtleta.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaExercicio.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaTreinador.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_Exercicio.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_ExercicioDados.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_Lancamento.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_LancamentoDados.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Relatorio\U_Relatorio.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_Treinador.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_TreinadorDados.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\W_Login.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\W_MainWindow.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks_MarkupCompile.cache
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks_MarkupCompile.lref
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_Exercicio.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_Lancamento.baml
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.g.resources
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.AssemblyInfoInputs.cache
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.AssemblyInfo.cs
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.CoreCompileInputs.cache
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.CopyComplete
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.dll
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ref\ControlWorks.dll
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.pdb
+C:\Users\joser\Desktop\Trabalho DOO\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.genruntimeconfig.cache
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.exe
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.deps.json
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.runtimeconfig.json
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.runtimeconfig.dev.json
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.dll
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ref\ControlWorks.dll
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.pdb
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.AssemblyReference.cache
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_Atleta.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_AtletaDados.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaAtleta.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaExercicio.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaTreinador.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_ExercicioDados.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_LancamentoDados.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Relatorio\U_Relatorio.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_Treinador.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_TreinadorDados.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\W_Login.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\W_MainWindow.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_Atleta.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_AtletaDados.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaAtleta.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaExercicio.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaTreinador.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_Exercicio.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_ExercicioDados.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_Lancamento.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_LancamentoDados.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Relatorio\U_Relatorio.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_Treinador.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_TreinadorDados.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\W_Login.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\W_MainWindow.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks_MarkupCompile.cache
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks_MarkupCompile.lref
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_Exercicio.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_Lancamento.baml
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.g.resources
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.AssemblyInfoInputs.cache
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.AssemblyInfo.cs
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.CoreCompileInputs.cache
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.CopyComplete
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.dll
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ref\ControlWorks.dll
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.pdb
+C:\Users\joser\Desktop\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.genruntimeconfig.cache
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.exe
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.deps.json
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.runtimeconfig.json
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.runtimeconfig.dev.json
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.dll
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ref\ControlWorks.dll
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\ControlWorks.pdb
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.AssemblyReference.cache
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_Atleta.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_AtletaDados.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaAtleta.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaExercicio.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaTreinador.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_ExercicioDados.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_LancamentoDados.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Relatorio\U_Relatorio.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_Treinador.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_TreinadorDados.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\W_Login.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\W_MainWindow.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_Atleta.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Atleta\U_AtletaDados.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaAtleta.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaExercicio.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Consulta\W_ConsultaTreinador.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_Exercicio.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_ExercicioDados.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_Lancamento.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_LancamentoDados.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Relatorio\U_Relatorio.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_Treinador.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Treinador\U_TreinadorDados.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\W_Login.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\W_MainWindow.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks_MarkupCompile.cache
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks_MarkupCompile.lref
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Exercicio\U_Exercicio.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\Telas\Lancamento\U_Lancamento.baml
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.g.resources
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.AssemblyInfoInputs.cache
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.AssemblyInfo.cs
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.CoreCompileInputs.cache
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.csproj.CopyComplete
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.dll
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ref\ControlWorks.dll
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.pdb
+C:\Users\joser\Desktop\Faculdade\2021.2\DOO\controlworks-doo-main\controlworks-doo-main\ControlWorks\obj\Debug\net5.0-windows\ControlWorks.genruntimeconfig.cache

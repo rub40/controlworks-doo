@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Telas\Atleta\U_Atleta.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Telas\Atleta\U_AtletaDados.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Telas\Consulta\W_ConsultaAtleta.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Telas\Consulta\W_ConsultaExercicio.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Telas\Consulta\W_ConsultaTreinador.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Telas\Lancamento\U_Lancamento.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Telas\Lancamento\U_LancamentoDados.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Telas\Exercicio\U_Exercicio.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Telas\Exercicio\U_ExercicioDados.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Telas\Treinador\U_Treinador.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="W_Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Telas\Atleta\U_Atleta.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Atleta\U_AtletaDados.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Consulta\W_ConsultaAtleta.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Consulta\W_ConsultaExercicio.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Consulta\W_ConsultaTreinador.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Lancamento\U_Lancamento.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Lancamento\U_LancamentoDados.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Exercicio\U_Exercicio.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Exercicio\U_ExercicioDados.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Relatorio\U_Relatorio.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Treinador\U_TreinadorDados.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Telas\Treinador\U_Treinador.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="W_MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="W_Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

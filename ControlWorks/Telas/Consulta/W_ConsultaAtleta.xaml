@@ -1,0 +1,26 @@
+﻿<Window x:Class="ControlWorks.W_ConsultaAtleta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="W_ConsultaAtleta" Height="450" Width="800" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" PreviewKeyDown="Window_PreviewKeyDown">
+    <StackPanel Orientation="Vertical">
+        <StackPanel>
+            <TextBlock Text="Consulta de Atletas" HorizontalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="2">
+                <Label Content="Pesquisar: " Padding="0"/>
+                <TextBox x:Name="tbPesquisar" Height="20" Width="500" MaxLength="60" TextChanged="tbPesquisar_TextChanged"/>
+            </StackPanel>
+        </StackPanel>
+        <DataGrid Name="dataGridAtleta" AutoGenerateColumns="False" AlternatingRowBackground="WhiteSmoke" CanUserAddRows="False" ItemsSource="{Binding Path=L_Atleta, UpdateSourceTrigger=PropertyChanged}" MouseDoubleClick="dataGridAtleta_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Codigo}" IsReadOnly="True" Header="Código" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Cpf}" IsReadOnly="True" Header="CPF" Width="180"/>
+                <DataGridTextColumn Binding="{Binding Nome}" IsReadOnly="True" Header="Nome" Width="350" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</Window>

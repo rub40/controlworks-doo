@@ -1,0 +1,109 @@
+﻿<UserControl x:Class="ControlWorks.U_Lancamento"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:controlworks="clr-namespace:ControlWorks"
+             xmlns:extensions="using:Microsoft.Toolkit.Uwp.UI.Extensions"
+             mc:Ignorable="d" Padding="5" Loaded="UserControl_Loaded" PreviewKeyDown="UserControl_PreviewKeyDown">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <controlworks:ConversorTrueVisible x:Key="converterTrue"/>
+            <controlworks:ConversorFalseVisible x:Key="converterFalse"/>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <StackPanel>
+                <Label Content="Código:" Padding="0"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="tbCodigo" Height="20" Width="140" HorizontalAlignment="Left" Text="{Binding Path=CurrentTreino.Codigo, UpdateSourceTrigger=PropertyChanged}" IsKeyboardFocusWithinChanged="TextBlock5_IsKeyboardFocusWithinChanged"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Data:" Padding="0"/>
+                <StackPanel Orientation="Horizontal">
+                    <DatePicker x:Name="tbDataTreino" Height="23" Width="140" HorizontalAlignment="Left" SelectedDate="{Binding Path=CurrentTreino.Data, UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Título:" Padding="0"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="tbTitulo" Height="20" Width="350" HorizontalAlignment="Left" Text="{Binding Path=CurrentTreino.Titulo, UpdateSourceTrigger=PropertyChanged}" />
+                </StackPanel>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Treinador:" Padding="0"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="tbCodigoTreinador" Height="20" Width="140" HorizontalAlignment="Left" Text="{Binding Path=CurrentTreino.Treinador.Codigo, UpdateSourceTrigger=PropertyChanged}" IsKeyboardFocusWithinChanged="TextBlock2_IsKeyboardFocusWithinChanged"/>
+                    <TextBlock Margin="5 0 0 0" Text="&#xE721;" FontFamily="Segoe MDL2 Assets" Width="15" Height="18"  FontSize="14"  Focusable="False"  MouseLeftButtonDown="TextBlock_MouseLeftButtonDown"/>
+                    <TextBlock Text="{Binding Path=CurrentTreino.Treinador.Nome, UpdateSourceTrigger=PropertyChanged}" Margin="5 0 0 0"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Atleta:" Padding="0"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="tbCodigoAtleta" Width="140" Height="20" MaxLength="60" HorizontalAlignment="Left" Text="{Binding Path=CurrentTreino.Atleta.Codigo, UpdateSourceTrigger=PropertyChanged}"  IsKeyboardFocusWithinChanged="TextBlock_IsKeyboardFocusWithinChanged"/>
+                    <TextBlock Margin="5 0 0 0" Text="&#xE721;" FontFamily="Segoe MDL2 Assets" Width="15" Height="18"  FontSize="14"  Focusable="False"  MouseLeftButtonDown="TextBlock2_MouseLeftButtonDown"/>
+                    <TextBlock Text="{Binding Path=CurrentTreino.Atleta.Nome, UpdateSourceTrigger=PropertyChanged}" Margin="5 0 0 0"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Orientation="Vertical">
+                        <Label Content="Código exercicio:" Padding="0" Margin="0 5 0 0"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox x:Name="tbCodigoExercicio" Width="140" MaxLength="60" Height="20" HorizontalAlignment="Left" Text="{Binding Path=CurrentExercicio.Codigo, UpdateSourceTrigger=PropertyChanged}"  IsKeyboardFocusWithinChanged="TextBlock3_IsKeyboardFocusWithinChanged"/>
+                            <TextBlock Margin="5 0 0 0" Text="&#xE721;" FontFamily="Segoe MDL2 Assets" Width="15" Height="18"  FontSize="14"  Focusable="False"  MouseLeftButtonDown="TextBlock3_MouseLeftButtonDown"/>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Orientation="Vertical" Margin="5 0 0 0">
+                        <Label Content="Descrição:" Padding="0" Margin="0 5 0 0"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox  Width="250" MaxLength="60" Height="20" HorizontalAlignment="Left" Focusable="False" IsEnabled="False" Text="{Binding Path=CurrentExercicio.Descricao, UpdateSourceTrigger=PropertyChanged}"/>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Orientation="Vertical" Margin="5 0 0 0">
+                        <Label Content="Tipo:" Padding="0" Margin="0 5 0 0"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox  Width="100" MaxLength="60" Height="20" HorizontalAlignment="Left" Focusable="False" IsEnabled="False" Text="{Binding Path=CurrentExercicio.TipoTreino.Descricao, UpdateSourceTrigger=PropertyChanged}"/>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Orientation="Vertical" Margin="2 0 0 0">
+                        <Label Content="Tempo (segundos):" Padding="0" Margin="0 5 0 0" IsEnabled="False"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox x:Name="tbTempoExercicio" Width="110" MaxLength="60" HorizontalAlignment="Left" Text="{Binding Path=CurrentExercicio.Tempo, UpdateSourceTrigger=PropertyChanged}" IsEnabled="{Binding Path=CurrentExercicio.IsTempo, UpdateSourceTrigger=PropertyChanged}"/>
+                            <Button Margin="2 0 0 0" Width="100" Height="20" Content="Adicionar" FontWeight="SemiBold" Click="BtnAdicionar_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel>
+                    <DataGrid Height="200" x:Name="dgExercicios" Margin="0 2 0 0" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" AlternatingRowBackground="WhiteSmoke" CanUserAddRows="False" ItemsSource="{Binding Path=CurrentTreino.L_Exercicio, UpdateSourceTrigger=PropertyChanged}" PreviewKeyDown="DataGrid_PreviewKeyDown">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Codigo}" IsReadOnly="True" Header="Código" Width="130"/>
+                            <DataGridTextColumn Binding="{Binding Descricao}" IsReadOnly="True" Header="Descricao" Width="250"/>
+                            <DataGridTextColumn Binding="{Binding TipoTreino.Descricao}" IsReadOnly="True" Header="Descricao" Width="100"/>
+                            <DataGridTextColumn Binding="{Binding Tempo}" IsReadOnly="True" Header="Tempo" Width="100"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Left">
+                <Label Content=" " Padding="0"/>
+                <StackPanel Orientation="Horizontal">
+                    <Button Width="130" Height="20" Content="Salvar" FontWeight="SemiBold" Click="BtnSalvar_Click"/>
+                </StackPanel>
+            </StackPanel>
+            <Label Content=" " Padding="0"/>
+            <Separator/>
+            <Label Content="Treinos existentes:" FontSize="16" FontWeight="SemiBold" Padding="0"/>
+        </StackPanel>
+        <Separator Grid.Row="1"/>
+        <ContentControl Grid.Row="2" Content="{Binding Path=TelaDados, UpdateSourceTrigger=PropertyChanged}"/>
+    </Grid>
+</UserControl>
